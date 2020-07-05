@@ -3,7 +3,7 @@
 IP-tracker is a tool which can be used for the purpose of tracking an IP, it may be your IP or some other IP.
 
 <p align="center">
-<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-Jason Jerry-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JasonJerry"><img title="Author" src="https://img.shields.io/badge/Author-Jason Jerry-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
