@@ -16,6 +16,10 @@ cd IPtracker
 bash iptracker.sh
 ```
 
+<br>
+<p align="center">
+<img width="50%" src="https://i.ibb.co/zhMBD4x/2.png">
+</p>
 
 ## Legal disclaimer:
 
